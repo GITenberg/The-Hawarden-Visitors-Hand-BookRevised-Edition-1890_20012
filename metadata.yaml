@@ -1,0 +1,32 @@
+_repo: The-Hawarden-Visitors-Hand-BookRevised-Edition-1890_20012
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gladstone, William Henry
+    birthdate: 1840
+    deathdate: 1891
+    gutenberg_agent_id: '9026'
+    url: http://www.gutenberg.org/2009/agents/9026
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Gladstone
+description: ''
+gutenberg_issued: '2006-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Hawarden Castle (Wales) -- Guidebooks'
+- !lcsh 'Hawarden (Wales) -- Guidebooks'
+- !lcsh 'Gladstone, W. E. (William Ewart), 1809-1898 -- Homes and haunts -- Wales
+  -- Hawarden'
+title: 'The Hawarden Visitors'' Hand-Book
+
+  Revised Edition, 1890'
+url: http://www.gutenberg.org/ebooks/20012
